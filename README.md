@@ -3,8 +3,10 @@
 
 ![soutozk's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutozk&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soutozk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soutozk&theme=dark)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soutozk&repo=NomeDoRepositorio&theme=dark)](https://github.com/soutozk/NomeDoRepositorio)
+[![GitHub Streak](h![giphy](https://github.com/soutozk/soutozk/assets/154080694/758bf1f2-713a-4cc7-8d0a-e9eca6476211)
+ttp://github-readme-streak-stats.herokuapp.com?user=soutozk&theme=dark)](https://git.io/streak-stats)
+![Descrição do GIF](g)
+
 
 
 
