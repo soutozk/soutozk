@@ -1,4 +1,4 @@
-## Oii, me chamo Gabriel Souto, estudante de Ciencia da Computaçao
+## Oii, me chamo João Gabriel e sou estudante de Ciencia da Computaçao pela (UCB)
 
 ![soutozk's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutozk&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soutozk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
