@@ -29,9 +29,8 @@
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="DBeaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/DBeaver_logo.svg">
-  <img align="center" alt="Arch Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
-  <img align="center" alt="Ubuntu" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo.svg">
+  <img align="center" alt="DBeaver" height="40" width="40" src="https://dbeaver.io/wp-content/uploads/2020/06/cropped-favicon-32x32.png">
+  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 
