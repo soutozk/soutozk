@@ -47,16 +47,6 @@
 
 ---
 
-### 💼 Estágio e Experiência
-
-💻 **Estagiário de Desenvolvimento** — Atividades voltadas para:
-
-- Suporte técnico e manutenção de sistemas;
-- Montagem e configuração de equipamentos;
-- Desenvolvimento e aprimoramento de projetos web.
-
----
-
 ### 🌐 Conecte-se comigo
 
 <div>
