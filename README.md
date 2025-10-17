@@ -64,7 +64,7 @@
   <a href="https://www.instagram.com/soutozk/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-souto-b5129b2b2/" target="_blank">
+  <a href="[https://www.linkedin.com/in/jo%C3%A3o-gabriel-souto-b5129b2b2/](https://www.linkedin.com/in/gabrielsouto01/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/soutozk" target="_blank">
