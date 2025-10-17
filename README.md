@@ -38,6 +38,14 @@
 
 ---
 
+### Meu Dia a Dia no Estagio
+
+📘 **Meu Estagio Dev https://github.com/soutozk/Meu-Estagio-Dev**
+
+> Aqui posto minha rotina e meus feitos do dia como estagiario na area de T.i .
+
+---
+
 ### 📂 Projetos Relevantes
 
 📘 **[Elohin - Universidade Online](https://github.com/soutozk/elohin-universidade)**
