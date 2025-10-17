@@ -1,6 +1,6 @@
 #  Oii, eu sou o João Gabriel
 
-🎓 **Estudante de Ciência da Computação** pela **Universidade Católica de Brasília (UCB)**  
+🎓 **Estudante de Ciência da Computação** pelo **Centro Universitário de Brasília (CEUB)**  
 💻 Apaixonado por tecnologia, criatividade e desenvolvimento de projetos que unem design e funcionalidade.  
 🚀 Sempre em busca de aprender mais e aplicar meus conhecimentos em **projetos reais** e **colaborações abertas**.
 
