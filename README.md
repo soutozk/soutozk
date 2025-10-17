@@ -1,4 +1,4 @@
-#  Oii, eu sou o João Gabriel
+#  Oii, eu sou o João Gabriel Souto
 
 🎓 **Estudante de Ciência da Computação** pelo **Centro Universitário de Brasília (CEUB)**  
 💻 Apaixonado por tecnologia, criatividade e desenvolvimento de projetos que unem design e funcionalidade.  
