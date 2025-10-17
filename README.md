@@ -1,30 +1,86 @@
-## Oii, me chamo João Gabriel e sou estudante de Ciencia da Computaçao pela (UCB)
+# 👋 Oii, eu sou o João Gabriel
+
+🎓 **Estudante de Ciência da Computação** pela **Universidade Católica de Brasília (UCB)**  
+💻 Apaixonado por tecnologia, criatividade e desenvolvimento de projetos que unem design e funcionalidade.  
+🚀 Sempre em busca de aprender mais e aplicar meus conhecimentos em **projetos reais** e **colaborações abertas**.
+
+---
+
+### 🌱 Sobre mim
+
+- 💡 Estudante dedicado e curioso, com foco em **desenvolvimento web (frontend)** e transição futura para **backend (Java)**.
+- 🧠 Gosto de desafios que me façam crescer e aprimorar minhas habilidades técnicas e pessoais.
+- ✝️ Tenho fé, foco e propósito em tudo o que faço.
+- ⚡ Gosto de correr, estudar e criar projetos criativos que expressem ideias e soluções digitais.
+
+---
+
+### 🧩 Tecnologias que utilizo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 📂 Projetos Relevantes
+
+📘 **[Elohin - Universidade Online](https://github.com/soutozk/elohin-universidade)**
+
+> Plataforma educacional com cursos, biblioteca e integração visual moderna — desenvolvida com **React + Tailwind**.
+
+📗 **[Fundação Bradesco Clone](https://github.com/soutozk/site-fundacao-bradesco)**
+
+> Recriação fiel do site da Fundação Bradesco com **tema claro/escuro** e recursos de acessibilidade.
+
+📙 **[Editor de Desenho Canvas](https://github.com/soutozk/editor-canvas)**
+
+> Aplicação tipo Paint feita em **JavaScript**, com ferramentas de pincel, borracha, seleção de cor e balde de tinta.
+
+📕 **[Gerador de Versículos Bíblicos](https://github.com/soutozk/biblia-api)**
+
+> Sistema que exibe versículos por tema e versão bíblica, com integração via API.
+
+---
+
+### 💼 Estágio e Experiência
+
+💻 **Estagiário de Desenvolvimento** — Atividades voltadas para:
+
+- Suporte técnico e manutenção de sistemas;
+- Montagem e configuração de equipamentos;
+- Desenvolvimento e aprimoramento de projetos web.
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div>
+  <a href="https://www.instagram.com/soutozk/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-souto-b5129b2b2/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/soutozk" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+---
+
+### ⚙️ Estatísticas do GitHub
 
 ![soutozk's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutozk&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soutozk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soutozk&theme=dark)](https://git.io/streak-stats)
 
+---
 
+### ✨ “A tecnologia é uma ferramenta; a criatividade é o dom que a move.”
 
-
-
-
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-
-</div>
-
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/soutozk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-souto-b5129b2b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+📍 _João Gabriel Souto_
