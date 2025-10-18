@@ -47,7 +47,7 @@
 
 📘 **[Meu Estagio Dev](https://github.com/soutozk/Meu-Estagio-Dev)**
 
-> Aqui posto minha rotina e meus feitos do dia como estagiario na area de T.i .
+> Aqui compartilho minha rotina, aprendizados e conquistas diárias como estagiário na área de T.I. 
 
 ---
 
