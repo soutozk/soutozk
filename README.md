@@ -53,6 +53,10 @@
 
 ### 📂 Projetos Relevantes
 
+📘 **[Sistema de Atendimento Por Senha](https://github.com/soutozk/SistemaAtendimentoSenha))**
+📘 **[Plataforma Biblica](https://github.com/soutozk/biblia--virtual)**
+📘 **[Meu Estagio Dev](https://github.com/soutozk/Meu-Estagio-Dev)**
+📘 **[Meu Estagio Dev](https://github.com/soutozk/Meu-Estagio-Dev)**
 
 
 ---
