@@ -53,9 +53,9 @@
 
 ### 📂 Projetos Relevantes
 
-📘 **[Sistema de Atendimento Por Senha](https://github.com/soutozk/SistemaAtendimentoSenha)**
+👨‍💻 **[Sistema de Atendimento Por Senha](https://github.com/soutozk/SistemaAtendimentoSenha)**
 >
-📘 **[Plataforma Bíblica](https://github.com/soutozk/biblia--virtual)**
+✝️ **[Plataforma Bíblica](https://github.com/soutozk/biblia--virtual)**
 > [Acesso à plataforma bíblica](https://bibliavirtual.netlify.app/)
 
 ---
