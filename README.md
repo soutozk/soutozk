@@ -1,4 +1,9 @@
-#  Oii, eu sou o João Gabriel Souto
+<h1 align="center">Hello, I'm joão Gabriel Souto 👋</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
+
 
 🎓 **Estudante de Ciência da Computação** pelo **Centro Universitário de Brasília (CEUB)**  
 💻 Apaixonado por tecnologia, criatividade e desenvolvimento de projetos que unem design e funcionalidade.  
