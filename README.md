@@ -56,7 +56,7 @@
 📘 **[Sistema de Atendimento Por Senha](https://github.com/soutozk/SistemaAtendimentoSenha)**
 >
 📘 **[Plataforma Biblica](https://github.com/soutozk/biblia--virtual)**
-> Acesso à plataforma (https://bibliavirtual.netlify.app/)
+> [Acesso à plataforma](https://bibliavirtual.netlify.app/)
 
 ---
 
