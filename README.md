@@ -64,7 +64,7 @@
 
 📚 **[Programação em C #1](https://github.com/soutozk/Estudo-linguagem-C)**
 📚 **[Programação em C #2](https://github.com/soutozk/atividade-c)**
-> Algumas atividades realizadas para a faculdade
+> Algumas atividades realizadas para a faculdade em C
 
 ---
 
