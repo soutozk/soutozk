@@ -91,6 +91,6 @@
 
 ---
 
-###  “azzzzzzzzz”
+###  “Aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem”
 
-📍 _João Gabriel Souto_
+📍 _Esteve Jobs_
