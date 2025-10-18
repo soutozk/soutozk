@@ -81,6 +81,6 @@
 
 ---
 
-### ✨ “A tecnologia é uma ferramenta; a criatividade é o dom que a move.”
+###  “azzzzzzzzz”
 
 📍 _João Gabriel Souto_
