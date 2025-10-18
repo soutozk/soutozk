@@ -79,7 +79,6 @@
 ### ⚙️ Estatísticas do GitHub
 
 ![soutozk's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutozk&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soutozk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soutozk&theme=dark)](https://git.io/streak-stats)
 
 ---
