@@ -53,21 +53,7 @@
 
 ### 📂 Projetos Relevantes
 
-📘 **[Elohin - Universidade Online](https://github.com/soutozk/elohin-universidade)**
 
-> Plataforma educacional com cursos, biblioteca e integração visual moderna — desenvolvida com **React + Tailwind**.
-
-📗 **[Fundação Bradesco Clone](https://github.com/soutozk/site-fundacao-bradesco)**
-
-> Recriação fiel do site da Fundação Bradesco com **tema claro/escuro** e recursos de acessibilidade.
-
-📙 **[Editor de Desenho Canvas](https://github.com/soutozk/editor-canvas)**
-
-> Aplicação tipo Paint feita em **JavaScript**, com ferramentas de pincel, borracha, seleção de cor e balde de tinta.
-
-📕 **[Gerador de Versículos Bíblicos](https://github.com/soutozk/biblia-api)**
-
-> Sistema que exibe versículos por tema e versão bíblica, com integração via API.
 
 ---
 
