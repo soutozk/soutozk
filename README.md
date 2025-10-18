@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm joão Gabriel Souto 👋</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk5YzljYWY0dnU4MnlwbHJ5eTN3ZDk5ZmFjMnB5ZDUwMDc3ZGdvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400px" alt="commit gif looping" />
 </p>
 
 
