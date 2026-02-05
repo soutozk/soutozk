@@ -37,18 +37,6 @@
   <img align="center" alt="DBeaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/250px-DBeaver_logo.svg.png">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
-
-
-
----
-
-### Meu Dia a Dia no Estagio
-
-📘 **[Meu Estagio Dev](https://github.com/soutozk/Meu-Estagio-Dev)**
-
-> Aqui compartilho minha rotina, aprendizados e conquistas diárias como estagiário na área de T.I. 
-
 ---
 
 ### 📂 Projetos Relevantes
