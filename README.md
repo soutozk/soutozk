@@ -81,4 +81,4 @@
 
 ###  “Aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem”
 
-📍 _Esteve Jobs_
+📍 _steve Jobs_
