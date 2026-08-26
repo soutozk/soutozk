@@ -39,23 +39,6 @@
 </div>
 ---
 
-### 📂 Projetos Relevantes
-
-👨‍💻 **[Sistema de Atendimento Por Senha](https://github.com/soutozk/SistemaAtendimentoSenha)**
->
-✝️ **[Plataforma Bíblica](https://github.com/soutozk/biblia--virtual)**
-> [Acesso à plataforma bíblica](https://bibliavirtual.netlify.app/)
-
----
-
-### 📂 Meus Estudos
-
-📚 **[Programação em C #1](https://github.com/soutozk/Estudo-linguagem-C)**
-📚 **[Programação em C #2](https://github.com/soutozk/atividade-c)**
-> Algumas atividades realizadas para a faculdade em C
-
----
-
 ### 🌐 Conecte-se comigo
 
 <div>
