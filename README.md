@@ -11,15 +11,6 @@
 
 ---
 
-### 🌱 Sobre mim
-
-- 💡 Estudante dedicado e curioso, com foco em **desenvolvimento web (frontend)** e transição para **backend**.
-- 🧠 Gosto de desafios que me façam crescer e aprimorar minhas habilidades técnicas e pessoais.
-- ✝️ Tenho fé, foco e propósito em tudo o que faço.
-- ⚡ Gosto de correr, estudar e criar projetos criativos que expressem ideias e soluções digitais.
-
----
-
 ### 🧩 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
